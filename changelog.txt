@@ -1,0 +1,5 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2024-09-09
+  Changes:
+    - Add Black Rubber Belts support for Exotic Industries Neo belts

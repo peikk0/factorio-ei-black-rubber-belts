@@ -1,0 +1,15 @@
+{
+  "name": "ei-black-rubber-belts",
+  "version": "1.0.0",
+  "title": "Black Rubber Belts for Exotic Industries",
+  "description": "Black Rubber Belts for Exotic Industries.",
+  "author": "peikk0",
+  "contact": "https://github.com/peikk0/factorio-ei-black-rubber-belts/issues",
+  "homepage": "https://github.com/peikk0/factorio-ei-black-rubber-belts",
+  "factorio_version": "1.1",
+  "dependencies": [
+      "base",
+      "DeadlockBlackRubberBelts >= 1.0.3",
+      "exotic-industries >= 0.6.0"
+  ]
+}
